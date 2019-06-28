@@ -8,6 +8,10 @@
   * Basic Human Anatomy: An Essential Visual Guide for Artists [\[Link for buy\]](https://www.amazon.com/dp/0321486811/) **~$28.13**
   * Learn You Some Erlang for Great Good! (Print book) [\[Link for buy\]](https://nostarch.com/erlang) **$49.95**
   * Explore It! Reduce Risk and Increase Confidence with Exploratory Testing [\[Link for buy\]](https://www.amazon.com/dp/B00KLYM4YK/) **~$43.45**
+  * Прохоров Александр Петрович - Русская модель управления [\[Link for buy\]](https://www.ozon.ru/context/detail/id/29962647/) **~$9.81**
+  * Новая типографика. Руководство для современного дизайнера (четвертое издание) [\[Link for buy\]](https://store.artlebedev.ru/made/izdal/novaya-tipografika-2018/) **~$10.00**
+  * Ян Чихольд - Образцы шрифтов (второе издание) [\[Link for buy\]](https://store.artlebedev.ru/books/calligraphy/obraztsy-shriftov-2018/) **~$24.00**
+  * Ководство (пятое издание) [\[Link for buy\]](https://store.artlebedev.ru/books/izdal/kovodstvo5/) **~$32.00**
   * Йозеф Мюллер-Брокманн «Модульные системы в графическом дизайне. Пособие для графиков, типографов и оформителей выставок» [\[Link for buy\]](https://www.artlebedev.ru/izdal/modulnye-sistemy-2018/)  **~$23.00**
   * Гоулмен Дэниел - Эмоциональный интеллект. Почему он может значить больше, чем IQ [\[Link for buy\]](https://www.ozon.ru/context/detail/id/20000606/?_bctx=CAYQ-7kB)  **~$14.00**
   * Теория и реализация языков программирования [\[Link for buy\]](https://my-shop.ru/shop/books/1304114.html)  **~$14.98**
