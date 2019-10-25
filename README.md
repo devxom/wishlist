@@ -57,7 +57,7 @@
   - [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition [\[Link for buy\]](https://www.amazon.com/dp/1449373321/)  **$22.50**
   - [ ] MongoDB in Action [\[Link for buy\]](https://www.amazon.com/dp/1935182870)  **$21.93**
   - [ ] The Hardware Hacker: Adventures in Making and Breaking Hardware 1st Edition [\[Link for buy\]](https://www.amazon.com/dp/159327758X/)  **$9.68**
-  - [ ] C++ Concurrency in Action 2nd Edition [Link for buy\]](https://www.amazon.com/dp/1617294691/)  **$55.99**
+  - [ ] C++ Concurrency in Action 2nd Edition [\[Link for buy\]](https://www.amazon.com/dp/1617294691/)  **$55.99**
   - [ ] Hacking the Xbox: An Introduction to Reverse Engineering 1st Edition [\[Link for buy\]](https://www.amazon.com/dp/1593270291/)  **$24.99**
   - [ ] The Art of Multiprocessor Programming, Revised Reprint 1st Edition [\[Link for buy\]](https://www.amazon.com/dp/0123973376/)  **$62.95**
   - [ ] PostgreSQL Server Programming - Second Edition 2nd Revised ed. Edition [\[Link for buy\]](https://www.amazon.com/dp/1783980583/)  **$49.99**
