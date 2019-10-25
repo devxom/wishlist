@@ -67,7 +67,7 @@
 
   - [ ] Yubico - YubiKey 5 NFC [\[Link for buy\]](https://www.amazon.com/Yubico-YubiKey-USB-Authentication-Security/dp/B07HBD71HL) **$45.00**
   - [ ] Wireless Power Bank Travel Charger, Asunflower 3 in 1 Wireless Portable Charge USB Type-C Adapter Wall Charger 6700mAh Digital Display Powerbank Replaceable Plug for Smartphone Tablet Laptop (4 Plugs) [\[Link for buy\]](https://www.amazon.com/dp/B07C51M6VB/) **$45.99**
-  - [ ] RODE PSA 1 Swivel Mount Studio Microphone Boom Arm [\[Link for buy\]](https://www.amazon.com/dp/B001D7UYBO/) **$98.92** (Thank you "Литрес:Самиздат"(selfpub.ru) team)
+  - [x] RODE PSA 1 Swivel Mount Studio Microphone Boom Arm [\[Link for buy\]](https://www.amazon.com/dp/B001D7UYBO/) **$98.92** (Thank you "Литрес:Самиздат"(selfpub.ru) team)
   - [ ] Ergo Elements Electric Height Adjustable Stand Up Desk Frame Workstation, Programmable Ergonomic Standing Base, Grey [\[Link for buy\]](https://www.amazon.com/dp/B00YDQ7H2G/) **$285.00**
   - [ ] Twelve South Bookarc for MacBook | Space-Saving Vertical Desktop Stand for Apple Notebooks (Space Grey) [\[Link for buy\]](https://www.amazon.com/dp/B071RWKNF2/) **$49.99**
   - [ ] Logitech M570 Wireless Trackball [\[Link for buy\]](https://www.amazon.com/dp/B0043T7FXE/) **$26.77**
