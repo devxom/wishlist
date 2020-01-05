@@ -1,5 +1,13 @@
 # My personal wishlist
 
+## Equipment for work and creativity
+
+  - [ ] Wireless Power Bank Travel Charger, Asunflower 3 in 1 Wireless Portable Charge USB Type-C Adapter Wall Charger 6700mAh Digital Display Powerbank Replaceable Plug for Smartphone Tablet Laptop (4 Plugs) [\[Link for buy\]](https://www.amazon.com/dp/B07C51M6VB/) **$45.99**
+  - [ ] Ergo Elements Electric Height Adjustable Stand Up Desk Frame Workstation, Programmable Ergonomic Standing Base, Grey [\[Link for buy\]](https://www.amazon.com/dp/B00YDQ7H2G/) **$285.00**
+  - [ ] Twelve South Bookarc for MacBook | Space-Saving Vertical Desktop Stand for Apple Notebooks (Space Grey) [\[Link for buy\]](https://www.amazon.com/dp/B071RWKNF2/) **$49.99**
+  - [x] Focusrite Scarlett 2i2 studio 3rd gen [\[Link for buy\]](https://www.muztorg.ru/product/A090986) **20,400 at a discount (~ $325)**
+  - [x] RODE PSA 1 Swivel Mount Studio Microphone Boom Arm [\[Link for buy\]](https://www.amazon.com/dp/B001D7UYBO/) **$98.92** (Thank you "Литрес:Самиздат"(selfpub.ru) team)
+
 ## Books
 
   - [ ] **(!)** Compilers: Principles, Techniques, and Tools (2nd Edition) [\[Link for buy\]](https://www.amazon.com/dp/0321486811/) **~$171.98**
@@ -61,13 +69,3 @@
   - [ ] Hacking the Xbox: An Introduction to Reverse Engineering 1st Edition [\[Link for buy\]](https://www.amazon.com/dp/1593270291/)  **$24.99**
   - [ ] The Art of Multiprocessor Programming, Revised Reprint 1st Edition [\[Link for buy\]](https://www.amazon.com/dp/0123973376/)  **$62.95**
   - [ ] PostgreSQL Server Programming - Second Edition 2nd Revised ed. Edition [\[Link for buy\]](https://www.amazon.com/dp/1783980583/)  **$49.99**
-
-
-## Equipment for work and creativity
-
-  - [ ] Yubico - YubiKey 5 NFC [\[Link for buy\]](https://www.amazon.com/Yubico-YubiKey-USB-Authentication-Security/dp/B07HBD71HL) **$45.00**
-  - [ ] Wireless Power Bank Travel Charger, Asunflower 3 in 1 Wireless Portable Charge USB Type-C Adapter Wall Charger 6700mAh Digital Display Powerbank Replaceable Plug for Smartphone Tablet Laptop (4 Plugs) [\[Link for buy\]](https://www.amazon.com/dp/B07C51M6VB/) **$45.99**
-  - [ ] Ergo Elements Electric Height Adjustable Stand Up Desk Frame Workstation, Programmable Ergonomic Standing Base, Grey [\[Link for buy\]](https://www.amazon.com/dp/B00YDQ7H2G/) **$285.00**
-  - [ ] Twelve South Bookarc for MacBook | Space-Saving Vertical Desktop Stand for Apple Notebooks (Space Grey) [\[Link for buy\]](https://www.amazon.com/dp/B071RWKNF2/) **$49.99**
-  - [ ] Logitech M570 Wireless Trackball [\[Link for buy\]](https://www.amazon.com/dp/B0043T7FXE/) **$26.77**
-  - [x] RODE PSA 1 Swivel Mount Studio Microphone Boom Arm [\[Link for buy\]](https://www.amazon.com/dp/B001D7UYBO/) **$98.92** (Thank you "Литрес:Самиздат"(selfpub.ru) team)
