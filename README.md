@@ -17,8 +17,8 @@
   - [ ] Learn You Some Erlang for Great Good! (Print book) [\[Link for buy\]](https://nostarch.com/erlang) **$49.95**
   - [ ] Explore It! Reduce Risk and Increase Confidence with Exploratory Testing [\[Link for buy\]](https://www.amazon.com/dp/B00KLYM4YK/) **~$43.45**
   - [ ] Стивен Хеллер, Сеймур Чваст - Эволюция графических стилей. От викторианской эпохи до нового века [\[Link for buy\]](https://store.artlebedev.ru/books/graphic/evolutsiya-graficheskih-stiley/) **~$35.00**
-  - [ ] Аркадий Мильчин, Людмила Чельцова - Справочник издателя и автора (пятое издание) [\[Link for buy\]](https://store.artlebedev.ru/books/izdal/spravochnik-izdatelya-i-avtora-2017/) **~$24.00**
-  - [ ] Прохоров Александр Петрович - Русская модель управления [\[Link for buy\]](https://www.ozon.ru/context/detail/id/29962647/) **~$9.81**
+  - [x] Аркадий Мильчин, Людмила Чельцова - Справочник издателя и автора (пятое издание) [\[Link for buy\]](https://store.artlebedev.ru/books/izdal/spravochnik-izdatelya-i-avtora-2017/) **~$24.00**
+  - [x] Прохоров Александр Петрович - Русская модель управления [\[Link for buy\]](https://www.ozon.ru/context/detail/id/29962647/) **~$9.81**
   - [ ] Юрий Гордон - Книга про буквы от Аа до Яя (третье издание) [\[Link for buy\]](https://store.artlebedev.ru/books/calligraphy/kniga-pro-bukvy3/) **~$48.00**
   - [ ] Новая типографика. Руководство для современного дизайнера (четвертое издание) [\[Link for buy\]](https://store.artlebedev.ru/made/izdal/novaya-tipografika-2018/) **~$10.00**
   - [ ] Ян Чихольд - Образцы шрифтов (второе издание) [\[Link for buy\]](https://store.artlebedev.ru/books/calligraphy/obraztsy-shriftov-2018/) **~$24.00**
