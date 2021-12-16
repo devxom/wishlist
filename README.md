@@ -7,6 +7,9 @@
   - [ ] Twelve South Bookarc for MacBook | Space-Saving Vertical Desktop Stand for Apple Notebooks (Space Grey) [\[Link for buy\]](https://www.amazon.com/dp/B071RWKNF2/) **$49.99**
   - [x] Focusrite Scarlett 2i2 studio 3rd gen [\[Link for buy\]](https://www.muztorg.ru/product/A090986) **₽20,400 at a discount (~$325)**
   - [x] RODE PSA 1 Swivel Mount Studio Microphone Boom Arm [\[Link for buy\]](https://www.amazon.com/dp/B001D7UYBO/) **$98.92** (Thank you "Литрес:Самиздат"(selfpub.ru) team)
+  - [ ] Nintendo Switch – OLED Model w/ White Joy-Con [\[Link for buy\]](https://www.amazon.com/Nintendo-Switch-OLED-Model-White-Joy/dp/B098RKWHHZ/) **$349.00**
+  - [ ] BOOX Max Lumi 13.3 ePaper [\[Link for buy\]](https://www.amazon.com/BOOX-Max-Lumi-Fingerprint-Recognition/dp/B08F9LN79L/) **$879.99**
+  - [ ] Playstation 5 Digital Edition PS5 Gaming Console (Disc Free)  [\[Link for buy\]](https://www.amazon.com/Playstation-Digital-Console-Wireless-Controller/dp/B09NMDSSP4/) **$1139.00**
 
 ## Books
 
