@@ -10,6 +10,18 @@
   - [ ] Nintendo Switch – OLED Model w/ White Joy-Con [\[Link for buy\]](https://www.amazon.com/Nintendo-Switch-OLED-Model-White-Joy/dp/B098RKWHHZ/) **$349.00**
   - [ ] BOOX Max Lumi 13.3 ePaper [\[Link for buy\]](https://www.amazon.com/BOOX-Max-Lumi-Fingerprint-Recognition/dp/B08F9LN79L/) **$879.99**
   - [ ] Playstation 5 Digital Edition PS5 Gaming Console (Disc Free)  [\[Link for buy\]](https://www.amazon.com/Playstation-Digital-Console-Wireless-Controller/dp/B09NMDSSP4/) **$1139.00**
+  - [ ] Elgato Collapsible Chroma Key Panel (GREEN SCREEN)  [\[Link for buy\]](https://www.elgato.com/en/green-screen/)
+  - [ ] Elgato Stream Deck XL [\[Link for buy\]](https://www.elgato.com/en/stream-deck-xl)
+  - [ ] Press Wall for photo background [\[Link for buy\]](https://www.ozon.ru/product/310159877/)
+  - [ ] Elgato Facecam Webcam
+  - [ ] Elgato Key Light Air
+  - [ ] Lighting equipment to set the scene for the webcam / camera
+  - [ ] Elgato Cam Link 4K
+  - [ ] Nanoleaf Shapes Hexagon Starter Kits 9 Panels
+  - [ ] Elgato Key Light
+  - [ ] Elgato Chat Link Pro
+  - [ ] Synology DS220+
+  - [ ] Roborock S7
 
 ## Books
 
